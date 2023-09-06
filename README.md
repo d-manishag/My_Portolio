@@ -14,6 +14,8 @@ I'm final year Masters student with Major in Data Science - Statistics. Im a pas
 - Expertise with ETL, Data warehousing and Machine Learning Frameworks
 - Work collaboratively with proficiently handling a team and work efficienlty with Git tools
 
+https://s3.amazonaws.com/www-inside-design/uploads/2018/12/image2.gif
+
 ## Work Experience
 
 
