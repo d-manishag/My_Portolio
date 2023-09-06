@@ -7,4 +7,20 @@
 - LinkedIn https://www.linkedin.com/in/manisha-gayatri-d-ab1388176/
 - Email manishagayataridamera@gmail.com
 
-## s
+## Who am I and What I do?
+I'm final year Masters student with Major in Data Science - Statistics. Im a passionate Data Scientist Keen to explore AI's frontiers and work on business problem solving.
+- Create comprehensive data vizualizations and interpret complex large data
+- Develop Machine Learning Models including complete ml cycle and deployment
+- Expertise with ETL, Data warehousing and Machine Learning Frameworks
+- Work collaboratively with proficiently handling a team and work efficienlty with Git tools
+
+## Work Experience
+
+
+## Education 
+
+
+## Skills
+
+
+
