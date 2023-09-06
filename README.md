@@ -38,6 +38,7 @@ Jul 2018 - Jul 2022
 - Collected SNAP benefits data using REST API, pre-processed XML, employed NLP techniques (NLTK, Spacy, TF-IDF) to classify 40k+ reviews, and applied topic modeling (LDA) for insights, revealing key driving factors
 - Optimized Data-Scraping and Data-Modeling of 60 GB business data, replacing 4 hours of manual work with seconds 
 - Designed database and Python-based ETL pipeline for seamless data ingestion, reducing inaccuracies by 25%. Integrated with Tableau, boosting stakeholder engagement. 
+![](https://groupcci.com/wp-content/uploads/2018/09/line-png-16.png)
 
 
 2. Machine Learning Engineer @ Rhapsody   |                                                                                        Jul 2022 - Sep 2022
