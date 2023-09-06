@@ -20,6 +20,17 @@ I'm final year Masters student with Major in Data Science - Statistics. Im a pas
 - Work collaboratively with proficiently handling a team and work efficienlty with Git tools
 
 
+## Education 
+
+#### Rutgers University - New Brunswick
+Master of Science in Data Science - Statistics
+Sep 2022 - Dec 2023
+
+#### Indian Institute of Technology Madras - India
+Bachelor of Technology 
+Jul 2018 - Jul 2022
+
+
 ## Work Experience
 
 1. Research Assistant @ Public Affairs and Administration, Rutgers University                                                      May 2023 - Present
@@ -50,22 +61,6 @@ I'm final year Masters student with Major in Data Science - Statistics. Im a pas
 
 
 
-## Education 
-
-
-Rutgers University - New Brunswick
-Master of Science in Data Science - Statistics
-Sep 2022 - Dec 2023
-![](https://logowik.com/content/uploads/images/rutgers-university-new-brunswick2481.jpg)
-
-
-Indian Institute of Technology Madras - India
-Bachelor of Technology 
-Jul 2018 - Jul 2022
-![](https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/1920px-IIT_Madras_Logo.svg.png)
-
-
-## Skills
 
 
 
