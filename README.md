@@ -52,7 +52,7 @@ ________________________________________________________________________________
 -	Executed ETL data pipelines for seamless migration from MySQL databases to S3, leveraging Glue to enhance efficiency
 -	Integrated advanced features and crafted an intuitive Tableau interface for Healthcare Website, securing a remarkable 96% user satisfaction rating
 -	Automated ML model pipelines through GitLab CI/CD, Docker, and Kubernetes, delivering actionable insights to stakeholders
--	Elevated IT support through adept SQL querying and building optimized data pipelines, yielding a 40% faster query response time   ___________________________________________________________________________________________________________________________________
+-	Elevated IT support through adept SQL querying and building optimized data pipelines, yielding a 40% faster query response time   _________________________________________________________________________________________________
 
 4. Data Analyst @ 26 Gramm Super Innovations Pvt. Ltd.						| 		                                                                     May 2021 - Nov 2021
 -	Performed market data analysis on the e-commerce technology using R and SQL querying, Leveraged ETL operations by conducted data cleaning, transformations and identified key drivers, leading to a 15% increase in market share
